@@ -35,6 +35,24 @@ The task is to review the IT manager's scope, goals, and risk assessment report.
 
 ------------------------
 
+The scope for Botium Toys’ internal IT audit :
+- The entire security program at Botium Toys including assets such as employee equipment and devices, internal network, and systems
+- Revew the assets, and current controls and compliance practices
+
+The goals for Botium Toys’ internal IT audit :
+- Assess exisitng assets
+- Complete the controls and compliance checklist to determine the best practices that need to be implemented to improve Botium Toys' security posture 
+
+Existing assets :
+- On-premises equipment for in-office business needs  
+- Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+- Storefront products available for retail sale on site and online; stored in the company’s adjoining warehouse
+- Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
+- Internet access
+- Internal network
+- Data retention and storage
+- Legacy system maintenance: end-of-life systems that require human monitoring 
+
 
 The goals for Botium Toys’ internal IT audit are:
 - To adhere to the National Institute of Standards and Technology Cybersecurity
