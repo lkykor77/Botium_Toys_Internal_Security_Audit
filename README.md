@@ -41,7 +41,11 @@ The scope for Botium Toys’ internal IT audit :
 
 The goals for Botium Toys’ internal IT audit :
 - Assess exisitng assets
-- Complete the controls and compliance checklist to determine the best practices that need to be implemented to improve Botium Toys' security posture 
+- Complete the controls and compliance checklist to determine the best practices that need to be implemented to improve Botium Toys' security posture
+-    Assess controls
+-    Correct compliance issues
+-    Identify any security gaps or weaknesses within an organization
+
 
 Existing assets :
 - On-premises equipment for in-office business needs  
