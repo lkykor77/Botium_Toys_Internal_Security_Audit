@@ -47,17 +47,6 @@ The goals for Botium Toys’ internal IT audit :
 -    Identify any security gaps or weaknesses within an organization
 
 
-Existing assets :
-- On-premises equipment for in-office business needs  
-- Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
-- Storefront products available for retail sale on site and online; stored in the company’s adjoining warehouse
-- Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
-- Internet access
-- Internal network
-- Data retention and storage
-- Legacy system maintenance: end-of-life systems that require human monitoring 
-
-
 The goals for Botium Toys’ internal IT audit are:
 - To adhere to the National Institute of Standards and Technology Cybersecurity
 Framework (NIST CSF)
@@ -91,7 +80,7 @@ Controls Assessment  <a name="control-assessment">
 ===================
 
 
-Current Assets 
+Existing Assets 
 --------------
 
 Assets managed by the IT Department include:
@@ -108,13 +97,12 @@ Assets managed by the IT Department include:
 
 - Vendor access management
 
-- Data center hosting services 
-
 - Data retention and storage
 
-- Badge readers
-
 - Legacy system maintenance: end-of-life systems that require human monitoring
+
+
+
 
 ### Administrative Controls 
 | Control Name | Control type and explanation | Needs to be implemented (X) | Priority |
